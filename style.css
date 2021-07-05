@@ -41,6 +41,15 @@ body{
       border-radius: 10px;
       background-image:linear-gradient( orange,tomato);
       font-weight:400;
+      background-color: rgb(91, 91, 107);
+    
+  }
+  .link-button:hover {
+      background: blue;
+      font-size: 50px;
+      border-radius: 20%;
+      color: chartreuse;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   .top-banner{
       background-image:url(images/top-banner.png);
